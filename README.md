@@ -2,7 +2,7 @@
 
 Currently leading the following cutting-edge projects at Montclair University Data Science Lab as a Generative AI Researcher:
 
-## Accelerating Patient Screening using Large Language Prompting
+## Accelerating Patient Screening for Clinical Trials using Large Language Model Prompting
 
 **Tech Stack:** Llama 3.1-8B, GPT-4, Flask, HTML, CSS
 
